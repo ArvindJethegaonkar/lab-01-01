@@ -64,6 +64,6 @@
 			
 <script src="assets/js/main.js"></script>
 
-	
+<p class="ui header center"><font color="white">Server IP Address <?=$_SERVER['SERVER_ADDR']?></p>	
 </body>
 </html>
